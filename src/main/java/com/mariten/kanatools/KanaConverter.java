@@ -724,6 +724,7 @@ public class KanaConverter
     //{{{ int createOpsArrayFromString(String)
     private static int createOpsArrayFromString(String php_style_options_string)
     {
+     int temp;
         int char_op_count = php_style_options_string.length();
         int conversion_op_flags = 0;
         for(int i = 0; i < char_op_count; i++) {
