@@ -226,6 +226,7 @@ public class KanaAppraiser
         && eval_char <= ZENKAKU_ASCII_LAST) {
             return true;
         }
+     System.out.println("test");
         return false;
     }
     //}}}
