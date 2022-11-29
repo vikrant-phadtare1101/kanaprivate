@@ -11,6 +11,7 @@ public class KanaAppraiser
     public static final char ZENKAKU_HIRAGANA_LAST_FOR_CONVERT  = 'ん'; // U+3093
     public static final char ZENKAKU_HIRAGANA_LAST  = 'ゖ';             // U+3096
   public static final char ZENKAKU_HIRAGANA_FIRST1 = 'ぁ';             // U+3041
+   public static final char ZENKAKU_HIRAGANA_FIRST2 = 'ぁ';             // U+3041
 
 
     //// Bounds for Katakana
