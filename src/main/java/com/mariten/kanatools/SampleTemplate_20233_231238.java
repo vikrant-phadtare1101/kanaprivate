@@ -6,6 +6,6 @@ package com.mariten.kanatools;
 public class SampleTemplate_20233_231238
 {
    public static void addTest_SampleTemplate_20233_231238(char eval_char){
-          System.out.println(" Added code issue ");
+       //   System.out.println(" Added code issue ");
 } 
  }
