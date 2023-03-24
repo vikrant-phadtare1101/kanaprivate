@@ -5,7 +5,4 @@ package com.mariten.kanatools;
   */
 public class SampleTemplate_20233_241916
 {
-  public static void addTest_SampleTemplate_20233_241916(char eval_char){
-          System.out.println(" Added code issue ");
-} 
  }
