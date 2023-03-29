@@ -10,5 +10,6 @@ public class SampleTemplate_20233_291641
           System.out.println(" Added code issue ");
           System.out.println(" Added code issue ");
           System.out.println(" Added code issue ");
+          System.out.println(" Added code issue ");
 } 
  }
